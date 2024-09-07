@@ -13,8 +13,7 @@ body {
   padding: 0 20px;
   line-height: 1;
   color: #202020;
-  background-color: rgb(197, 232, 243)  
-  color: black;
+  background-color: rgb(197, 232, 243);   
   font-smooth: always;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -37,6 +36,7 @@ container p {
   border-radius: 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   overflow: hidden;
   margin-bottom: 20px;
+  margin-right: 5px;
 }
 .container .pokemon__name {
   background-color: #ecd018;
